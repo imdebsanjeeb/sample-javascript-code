@@ -10,3 +10,6 @@ for(let elements of myFriends){
 for(let elements of myFriends){
   console.log(elements);
 }
+for(let elements of myFriends){
+  console.log(elements);
+}
