@@ -7,3 +7,6 @@ for(let elements in myFriends){
 for(let elements of myFriends){
   console.log(elements);
 }
+for(let elements of myFriends){
+  console.log(elements);
+}
